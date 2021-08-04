@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+PRODID:-//Apple Inc.//iPhone OS 14.6//EN
+N:Koh;Colin;;;
+FN: Colin Koh 
+ORG:GMI;
+TITLE:Business Development Director
+EMAIL;type=INTERNET;type=WORK;type=pref:colin@educationbos.com
+TEL;type=WORK;type=VOICE:+65 8883 8522
+item1.ADR;type=WORK;type=pref:;;10 Anson Road\nInternational Plaza\, 13-13;;;079903;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:gmi.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
